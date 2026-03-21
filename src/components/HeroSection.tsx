@@ -31,7 +31,7 @@ const HeroSection = () => {
         </p>
         <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center reveal reveal-delay-3">
           <a
-            href="https://www.google.com/maps/place/Parrilla+El+tano/@-34.7076716,-58.310656,15z"
+            href="https://maps.app.goo.gl/zUcz1JkY9ScQBmKM7"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-primary text-primary-foreground font-semibold rounded-lg hover:bg-ember-dark transition-colors duration-200 active:scale-[0.97] text-base"
