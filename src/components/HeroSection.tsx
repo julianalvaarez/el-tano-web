@@ -24,7 +24,7 @@ const HeroSection = () => {
         />
         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-heading font-bold leading-[1.05] text-balance reveal reveal-delay-1 text-cream">
           El Templo del Asado
-          <span className="block text-primary mt-2">en Wilde</span>
+          <span className="block text-primary mt-2">en Zona Sur</span>
         </h1>
         <p className="mt-6 text-lg sm:text-xl text-cream/80 max-w-xl mx-auto reveal reveal-delay-2 font-body">
           Experiencia de Tenedor Libre auténtica y familiar desde siempre.
