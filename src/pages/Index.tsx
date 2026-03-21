@@ -1,6 +1,7 @@
 import HeroSection from "@/components/HeroSection";
 import InfoGrid from "@/components/InfoGrid";
 import MenuSection from "@/components/MenuSection";
+import TestimonialsSection from "@/components/TestimonialsSection";
 import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton";
@@ -14,6 +15,7 @@ const Index = () => {
       <HeroSection />
       <InfoGrid />
       <MenuSection />
+      <TestimonialsSection />
       <ContactSection />
       <Footer />
       <WhatsAppButton />
