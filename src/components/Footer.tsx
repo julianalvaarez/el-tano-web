@@ -12,7 +12,7 @@ const Footer = () => {
 
         <div className="text-center md:text-right text-sm text-smoke space-y-1">
           <p>Av. Bartolomé Mitre 5735, Wilde · 011 7099-0834</p>
-          <p>Martes a Domingo — Mediodía y Noche</p>
+          <p>Mar a Sáb 16:00–01:00 · Dom 11:30–17:30</p>
         </div>
 
         <a
