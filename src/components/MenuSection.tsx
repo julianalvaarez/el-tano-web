@@ -30,7 +30,7 @@ const MenuSection = () => {
               <p className="text-sm text-smoke uppercase tracking-wider mb-2 font-medium">
                 Precio por persona
               </p>
-              <p className="text-4xl font-heading font-bold text-primary">
+              <p className="text-3xl sm:text-4xl font-heading font-bold text-primary break-words">
                 $40.000 – $50.000
               </p>
               <p className="text-sm text-smoke mt-2">
