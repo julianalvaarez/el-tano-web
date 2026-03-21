@@ -27,7 +27,7 @@ const HeroSection = () => {
           <span className="block text-primary mt-2">en Zona Sur</span>
         </h1>
         <p className="mt-6 text-lg sm:text-xl text-cream/80 max-w-xl mx-auto reveal reveal-delay-2 font-body">
-          Experiencia de Tenedor Libre auténtica y familiar desde siempre.
+          Experiencia de Tenedor Libre auténtica y familiar desde hace 24 años.
         </p>
         <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center reveal reveal-delay-3">
           <a
