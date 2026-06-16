@@ -11,6 +11,10 @@ const MenuSection = () => {
             <img
               src={asadoImg}
               alt="Tabla de asado con cortes argentinos"
+              width="640"
+              height="448"
+              loading="lazy"
+              decoding="async"
               className="w-full h-80 md:h-[28rem] object-cover"
             />
           </div>

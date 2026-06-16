@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="border-t border-border bg-secondary/30 py-12 section-padding">
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-8">
         <div className="flex items-center gap-3">
-          <img src={logo} alt="El Tano" className="w-10 h-10 object-contain bg-cream/90 rounded-full p-0.5" />
+          <img src={logo} alt="El Tano" width="40" height="40" decoding="async" className="w-10 h-10 object-contain bg-cream/90 rounded-full p-0.5" />
           <span className="font-heading font-bold text-cream text-lg">Parrilla El Tano</span>
         </div>
 

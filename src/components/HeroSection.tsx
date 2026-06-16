@@ -10,6 +10,9 @@ const HeroSection = () => {
         <img
           src={heroImg}
           alt="Parrilla encendida con cortes de carne"
+          width="1920"
+          height="1080"
+          decoding="async"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-background via-background/70 to-background/30" />
@@ -20,6 +23,9 @@ const HeroSection = () => {
         <img
           src={logo}
           alt="Parrilla El Tano logo"
+          width="112"
+          height="112"
+          decoding="async"
           className="w-28 h-28 mx-auto mb-6 reveal object-contain bg-cream/90 rounded-full p-2"
         />
         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-heading font-bold leading-[1.05] text-balance reveal reveal-delay-1 text-cream">
